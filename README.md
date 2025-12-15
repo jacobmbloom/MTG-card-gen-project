@@ -20,7 +20,7 @@ the goal was to see how accurately trained models could recreate Magic the Gathe
 - finally run script.py with your new model that you saved with MODEL_OUT<br/>
     - change generate_card() with desired prompt<br/>
 
-##Technology Stack
+## Technology Stack
 
 - Python
 - PyTorch – deep learning framework
