@@ -1,6 +1,6 @@
 # magic the gathering card generation script
 
-this is a natural language processing project to train gpt-2 model on Magic the Gathering cards and generate new cards from a prompt.<br/>
+this is a natural language processing project to train a gpt-2 model on Magic the Gathering cards and generate new cards from a prompt.<br/>
 the goal was to see how accurately trained models could recreate Magic the Gathering cards, and how creative it could be with new cards.<br/>
 
 ## how to run/usage 
