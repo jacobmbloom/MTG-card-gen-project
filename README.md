@@ -28,6 +28,10 @@ the goal was to see how accurately trained models could recreate Magic the Gathe
 - Hugging Face Datasets – dataset loading and preprocessing
 - CUDA (optional) – GPU acceleration when available
 
+## results
+<img width="854" height="361" alt="image" src="https://github.com/user-attachments/assets/a4f121be-8132-4a1e-a700-75a4516d73dd" />
+
+
 ## author
 
 jacob bloom
